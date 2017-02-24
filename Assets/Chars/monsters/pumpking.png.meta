@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: c8b49fd3d05c95a45afdc09dfc063c3b
+timeCreated: 1485130201
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pumpking_0
+    21300002: pumpking_1
+    21300004: pumpking_2
+    21300006: pumpking_3
+    21300008: pumpking_4
+    21300010: pumpking_5
+    21300012: pumpking_6
+    21300014: pumpking_7
+    21300016: pumpking_8
+    21300018: pumpking_9
+    21300020: pumpking_10
+    21300022: pumpking_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pumpking_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.5}
+        - {x: -11, y: 20.5}
+        - {x: -20, y: 8.5}
+        - {x: -20, y: -21.5}
+        - {x: 19, y: -21.5}
+        - {x: 20, y: -19.5}
+        - {x: 20, y: 10.5}
+        - {x: 15, y: 21.5}
+    - name: pumpking_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 139
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21.5}
+        - {x: -22, y: 10.5}
+        - {x: -22, y: -9.5}
+        - {x: -14, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 22, y: -17.5}
+        - {x: 22, y: 21.5}
+    - name: pumpking_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -22, y: 17.5}
+        - {x: -22, y: -15.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -10.5}
+        - {x: 22, y: 8.5}
+        - {x: 16, y: 21.5}
+    - name: pumpking_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21.5}
+        - {x: -12.5, y: 20.5}
+        - {x: -17.5, y: 1.5}
+        - {x: -17.5, y: -19.5}
+        - {x: -16.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 17.5, y: 9.5}
+        - {x: 6.5, y: 21.5}
+    - name: pumpking_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 93
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 18.5, y: -11.5}
+        - {x: 18.5, y: 21.5}
+    - name: pumpking_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21.5}
+        - {x: -17.5, y: 16.5}
+        - {x: -18.5, y: 6.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 6.5, y: 21.5}
+    - name: pumpking_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21.5}
+        - {x: -22, y: 10.5}
+        - {x: -22, y: -9.5}
+        - {x: -14, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 22, y: -17.5}
+        - {x: 22, y: 21.5}
+    - name: pumpking_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21.5}
+        - {x: -22, y: 10.5}
+        - {x: -22, y: -9.5}
+        - {x: -14, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 22, y: -17.5}
+        - {x: 22, y: 21.5}
+    - name: pumpking_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 46
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -22, y: 17.5}
+        - {x: -22, y: -15.5}
+        - {x: -19, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 22, y: -10.5}
+        - {x: 22, y: 8.5}
+        - {x: 16, y: 21.5}
+    - name: pumpking_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 21.5}
+        - {x: -4.5, y: 21.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -9.5}
+        - {x: -14.5, y: -16.5}
+        - {x: -8.5, y: -20.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 13.5, y: -20.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 18.5}
+    - name: pumpking_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 21.5}
+        - {x: -2.5, y: 21.5}
+        - {x: -11.5, y: 18.5}
+        - {x: -18.5, y: 6.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -11.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 17.5}
+    - name: pumpking_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -19.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 15.5, y: 21.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -18.5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
