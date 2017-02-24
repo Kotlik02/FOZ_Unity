@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
@@ -27,3 +28,34 @@ Global
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
+=======
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E20C4C06-1047-2D5D-6102-F25AAB50C58C}") = "FOZ", "Assembly-CSharp.csproj", "{FADE499F-86C1-3165-44F4-E699FFE9F3FE}"
+EndProject
+Project("{E20C4C06-1047-2D5D-6102-F25AAB50C58C}") = "FOZ", "Assembly-CSharp-Editor.csproj", "{3AFCD7E4-FE04-5EA2-3EA4-F1E254B68445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADE499F-86C1-3165-44F4-E699FFE9F3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADE499F-86C1-3165-44F4-E699FFE9F3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADE499F-86C1-3165-44F4-E699FFE9F3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADE499F-86C1-3165-44F4-E699FFE9F3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFCD7E4-FE04-5EA2-3EA4-F1E254B68445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFCD7E4-FE04-5EA2-3EA4-F1E254B68445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFCD7E4-FE04-5EA2-3EA4-F1E254B68445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFCD7E4-FE04-5EA2-3EA4-F1E254B68445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
+>>>>>>> origin/master
